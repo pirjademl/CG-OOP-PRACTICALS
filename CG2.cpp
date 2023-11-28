@@ -1,6 +1,6 @@
-// Name : Satyam Shinde
-//            RollNo. : COSC28
-//                          Batch : B2
+// 
+//            RollNo. : COSC77
+//                          Batch : c3
 //                                      OUTPUT : Assignment No .2 Name : Magdum Pirjade
 //                                                                           RollNo. : COSC77
 //                                                                                         Batch : c3
